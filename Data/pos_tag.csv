@@ -1,0 +1,22 @@
+Tag,Tag Name,Count,Unique Tokens
+POS,Other,43142,1
+NNP,"Proper noun, singular",41170,3994
+NNS,"Noun, plural",1545,271
+JJ,Adjective,700,107
+VBG,"Verb, gerund/present participle",494,111
+NN,"Noun, singular or mass",457,92
+FW,Other,166,21
+VBD,"Verb, past tense",159,71
+WP,Other,86,9
+IN,Preposition/subordinating conjunction,66,26
+RB,Adverb,62,26
+JJS,"Adjective, superlative",29,9
+CD,Other,26,16
+PRP,Personal pronoun,21,6
+EX,Other,20,4
+CC,Coordinating conjunction,18,4
+VBZ,"Verb, 3rd person singular present",17,11
+MD,Other,15,4
+VBN,"Verb, past participle",5,4
+VBP,"Verb, non‑3rd person singular present",4,3
+DT,Determiner,1,1
