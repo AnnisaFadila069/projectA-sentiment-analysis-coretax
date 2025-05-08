@@ -17,12 +17,15 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada berita yang berkaita
   - **hasil_preprocessing2.xlsx**: Dataset hasil final preprocessing pada kolom tanggal dan konten berita.
   - **hasil_scrap_berita.xlsx**: Dataset yang berisi berita yang berhasil discraping.
   - **hasildate.xlsx**: Dataset hasil praproses pada kolom tanggal.
+  - **hasil_preprocessing3.xlsx**: Dataset hasil final final untuk bisa memulai analisis sentimen.
+
   
 - **notebook/**: Berisi file Jupyter Notebook untuk memproses dan menganalisis data.
   - **1_Scraping_Coretax_News.ipynb**: Notebook untuk melakukan scraping berita dari link.
   - **2_Preprocessing_Coretax.ipynb**: Notebook untuk preprocessing data konten berita.
   - **3_preprocessing_date.ipynb**: Notebook untuk preprocessing kolom tanggal.
   - **4_EDA_POS_NER.ipynb**: Notebook untuk melakukan analisis EDA, POS, dan NER pada data yang telah diproses.
+  - **5_Visualization_FeatEngineer.ipynb**: Notebook untuk melakukan analisis sentimen dan tf-idf pada data yang telah diproses.
 
 ## Instalasi dan Persiapan
 
