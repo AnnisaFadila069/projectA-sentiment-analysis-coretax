@@ -10,6 +10,28 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada berita yang berkaita
 - Melakukan **Named Entity Recognition** (NER) dan **Part-of-Speech (POS)** untuk analisis lebih lanjut
 
 ## Struktur Direktori
+```
+📂 Sentiment-Analysis-Coretax-News
+ ├── data/                             # Berisi file data proyek
+ │   ├── Kelompok 2 Link Article Coretax.xlsx   # Kumpulan link berita Coretax
+ │   ├── hasil_scrap_berita.xlsx                # Berita hasil scraping dari link
+ │   ├── hasil_praproses.xlsx                   # Hasil praproses kolom konten
+ │   ├── hasildate.xlsx                         # Hasil praproses kolom tanggal
+ │   ├── hasil_preprocessing2.xlsx              # Final preprocessing pada konten & tanggal
+ │   ├── hasil_preprocessing3.xlsx              # Konten bersih yang telah disatukan kembali
+ │   ├── pos_tag.csv                            # Hasil analisis POS tagging
+ │   ├── entity.csv                             # Hasil Named Entity Recognition (NER)
+ │
+ ├── notebook/                          # Jupyter Notebooks untuk analisis data
+ │   ├── 1_Scraping_Coretax_News.ipynb         # Scraping berita dari link
+ │   ├── 2_Preprocessing_Coretax.ipynb         # Preprocessing konten berita
+ │   ├── 3_preprocessing_date.ipynb            # Preprocessing kolom tanggal
+ │   ├── 4_EDA_POS_NER.ipynb                   # EDA, POS tagging, dan NER
+ │   ├── 5_Visualization_FeatEngineer.ipynb    # Analisis sentimen, TF-IDF, dan visualisasi
+ │
+ ├── README.md                         # Dokumentasi proyek
+ ├── LICENSE                           # Informasi lisensi
+```
 
 - **data/**: Berisi file data yang digunakan dalam proyek ini.
   - **Kelompok 2 Link Article Coretax.xlsx**: Dataset yang berisi kumpulan link berita Coretax yang telah dikumpulkan.
