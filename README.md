@@ -44,7 +44,3 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada berita yang berkaita
    pip install jupyter
    ```
 4. **Jalankan Notebook**: Jalankan notebook sesuai urutan nomor pada file.
-   ```bash
-   pip install jupyter
-   ```
-
