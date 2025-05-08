@@ -21,8 +21,8 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada berita yang berkaita
 - **notebook/**: Berisi file Jupyter Notebook untuk memproses dan menganalisis data.
   - **1_Scraping_Coretax_News.ipynb**: Notebook untuk melakukan scraping berita dari link.
   - **2_Preprocessing_Coretax.ipynb**: Notebook untuk preprocessing data konten berita.
-  - **2_preprocessing_date.ipynb**: Notebook untuk preprocessing kolom tanggal.
-  - **3_EDA_POS_NER.ipynb**: Notebook untuk melakukan analisis EDA, POS, dan NER pada data yang telah diproses.
+  - **3_preprocessing_date.ipynb**: Notebook untuk preprocessing kolom tanggal.
+  - **4_EDA_POS_NER.ipynb**: Notebook untuk melakukan analisis EDA, POS, dan NER pada data yang telah diproses.
 
 ## Instalasi dan Persiapan
 
