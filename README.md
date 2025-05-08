@@ -18,6 +18,8 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada berita yang berkaita
   - **hasil_scrap_berita.xlsx**: Dataset yang berisi berita yang berhasil discraping.
   - **hasildate.xlsx**: Dataset hasil praproses pada kolom tanggal.
   - **hasil_preprocessing3.xlsx**: Dataset hasil final final untuk bisa memulai analisis sentimen.
+  - **pos_tag.csv**: Dataset hasil pemrosesan POS Tagging.
+  - **entity.csv**: Dataset hasil pemrosesan NER berisi terkait entitas yang muncul dalam artikel.
 
   
 - **notebook/**: Berisi file Jupyter Notebook untuk memproses dan menganalisis data.
