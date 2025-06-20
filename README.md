@@ -17,8 +17,8 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada berita yang berkaita
  │   ├── hasil_scrap_berita.xlsx                # Berita hasil scraping dari link
  │   ├── hasil_praproses.xlsx                   # Hasil praproses kolom konten
  │   ├── hasildate.xlsx                         # Hasil praproses kolom tanggal
- │   ├── hasil_preprocessing2.xlsx              # Final preprocessing pada konten & tanggal
- │   ├── hasil_preprocessing3.xlsx              # Konten bersih yang telah disatukan kembali
+ │   ├── final_hasil_preprocessing.xlsx         # Final preprocessing pada konten & tanggal
+ │   ├── final_hasil_preprocessing&label.xlsx   # Final preprocessing dengan manual labeling
  │   ├── pos_tag.csv                            # Hasil analisis POS tagging
  │   ├── entity.csv                             # Hasil Named Entity Recognition (NER)
  │
