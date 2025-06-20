@@ -23,6 +23,7 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada berita yang berkaita
  │   ├── entity.csv                             # Hasil Named Entity Recognition (NER)
  │
  ├── notebook/                          # Jupyter Notebooks untuk analisis data
+ │   ├── model bert/                          # berisi pelatihan dataset dengan model bert
  │   ├── 1_Scraping_Coretax_News.ipynb         # Scraping berita dari link
  │   ├── 2_Preprocessing_Coretax.ipynb         # Preprocessing konten berita
  │   ├── 3_preprocessing_date.ipynb            # Preprocessing kolom tanggal
